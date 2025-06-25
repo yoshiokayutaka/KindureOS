@@ -7,7 +7,7 @@
 - 初回公開：2025年6月25日（GitHubタイムスタンプに準拠）
 - Twitter/X：
 [@吉岡有隆](https://x.com/yoshiokayutaka_?s=11)
-[@yutakayoshioka](ttps://x.com/yutakaapp_?s=11)
+[@yutakayoshioka](https://x.com/yutakaapp_?s=11)
 
 ## ご注意
 この構想は思想的・設計的なプロトタイプであり、未実装の部分も多数含みます。  
