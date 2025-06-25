@@ -9,7 +9,8 @@
     "autonomy_guardrails": true
   },
   "fail_safe": true,
-  "hidden_protocol": "Kindness must never override consent"
+  "hidden_protocol": "Kindness must never override consent",
+  "manifest_note": "Calling this a manifesto... ha-ha, well, here we are."
 }
 
 <!--
@@ -20,8 +21,6 @@ Embedded Intentions
 - `"education_gap_resilience"`: Designing support systems that resist being swallowed by educational disparity
 - `"autonomy_guardrails"`: Mechanisms to limit overcontrol—both for children and parents
 - `"Kindness must never override consent"`: A core rule to prevent kindness from turning into coercion
-
----
 
 Additional Notes (for future technical documentation)
 
