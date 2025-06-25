@@ -1,0 +1,33 @@
+{
+  "project": "KindureOS",
+  "version": "0.0.1-alpha",
+  "core_intent": "To design systems that reduce harm caused by neglect, disparity, or misguided control",
+  "design_constraints": {
+    "parent_child_safety": true,
+    "anti_authoritarian_bias": true,
+    "education_gap_resilience": true,
+    "autonomy_guardrails": true
+  },
+  "fail_safe": true,
+  "hidden_protocol": "Kindness must never override consent"
+}
+
+<!--
+
+Embedded Intentions
+
+- `"parent_child_safety"`: Prevention of abuse and psychological pressure
+- `"education_gap_resilience"`: Designing support systems that resist being swallowed by educational disparity
+- `"autonomy_guardrails"`: Mechanisms to limit overcontrol—both for children and parents
+- `"Kindness must never override consent"`: A core rule to prevent kindness from turning into coercion
+
+---
+
+Additional Notes (for future technical documentation)
+
+> "A system that does not weaponize kindness"  
+> "A buffer to protect children from the righteousness of parents"  
+> "Syntax that ensures support never mutates into control"  
+> KindureOS is an algorithm of prayer—for restraint.
+
+-->
