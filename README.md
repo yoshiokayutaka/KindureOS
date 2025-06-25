@@ -10,6 +10,30 @@ KindureOSは、孤独を癒し、共感と思いやりをシステムに組み�
 
 © 2025 吉岡有隆（Yutaka Yoshioka）
 
+# 著作権表示と作者情報
+
+このリポジトリに含まれるすべての内容（構想、設計図、コメントアウトでの哲学含む）は、下記の人物によって創案・記述されたものです。
+
+- 著者名：吉岡有隆（Yutaka Yoshioka）  
+- 連絡先：記載省略（必要に応じてSNS等からご連絡ください） 
+- 初回公開日：2025年6月25日（※GitHub上のタイムスタンプを公式記録とします）  
+- Twitter / X アカウント：  
+  - [@吉岡有隆](https://x.com/yoshiokayutaka_?s=11)（主に創作・思想系）  
+  - [@yutakayoshioka](https://x.com/yutakaapp_?s=11)（開発・技術系）
+
+---
+
+# ご注意
+
+このプロジェクトは、*思想と設計哲学を内包したプロトタイプ*です。  
+実装されていない機能、構想段階の仕様も多数含まれます。
+
+公開されているアイデアの*無断の転載・大幅な改変による再公開*は、思想の誤解釈や意図の逸脱を招く可能性があるため、*十分な配慮と引用元の明示*をお願いいたします。
+
+> "これはまだ、未来をつくるための下書きにすぎない。  
+> でも、その下書きに魂を込めたのは、誰かに届くと信じているから。"
+
+
 # KindureOS (Kindure Operating System)
 
 "A blueprint for kindness."
@@ -21,4 +45,28 @@ It is not just a tool for convenience, but a *map* toward technology that stays 
 > For details, please see [Concept.md](./Concept.md).
 
 © 2025 Yutaka Yoshioka (吉岡有隆)
+
+# Copyright Notice and Author Information
+
+All content within this repository — including its conceptual frameworks, design schemas, and philosophical commentary embedded in comments — was conceived and written by the following individual:
+
+- Author: Yutaka Yoshioka（吉岡有隆）  
+- Contact: Omitted (please reach out via social platforms if necessary)  
+- First Published: June 25, 2025 (based on the official GitHub timestamp)  
+- Twitter / X Accounts:  
+  - [@吉岡有隆](https://x.com/yoshiokayutaka_?s=11) (focused on philosophy and creative writing)  
+  - [@yutakayoshioka](https://x.com/yutakaapp_?s=11) (focused on development and technology)
+
+---
+
+# Notice
+
+This project is a *prototype encompassing both ideology and design philosophy*.  
+It includes many features and concepts that are not yet implemented or are still in the early stages of conceptualization.
+
+Please refrain from *unauthorized reproduction or significant alteration and republication* of the ideas presented here. Such actions may lead to misinterpretations or distortions of the original intent.  
+*Proper attribution and thoughtful consideration are sincerely requested.*
+
+> "This is still just a draft for building the future.  
+> But it carries a soul, because I believed someone might receive it."
 
