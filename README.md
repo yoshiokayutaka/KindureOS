@@ -1,5 +1,12 @@
-> This project is protected under the KindureOS Custom License (2025年6月25日制定).
-> All rights including name, concept, design, icon, and philosophy belong to the original creator: **Yutaka Yoshioka (吉岡有隆)**.
+> 本プロジェクト「KindureOS（カインデュア・オーエス）」は、2025年6月25日制定のKindureOSカスタムライセンスに基づき保護されています。  
+> 名称・構想・思想・設計理念・UI/UX・構成・ロゴ・アイコン等すべての著作権は、**吉岡有隆（Yutaka Yoshioka）** に帰属します。  
+> 無断での複製、改変、模倣、商用利用、派生物の公開・頒布は一切禁止されています。  
+> 詳細は [LICENSE.md](./LICENSE) をご確認ください。
+
+> This project "KindureOS" is protected under the **KindureOS Custom License**, established on June 25, 2025.  
+> All rights including the name, concept, philosophy, system architecture, UI/UX design, structure, logo, and icon are exclusively held by **Yutaka Yoshioka (吉岡有隆)**.  
+> Any unauthorized reproduction, modification, imitation, commercialization, or publication of derivative works is strictly prohibited.  
+> See [LICENSE.md](./LICENSE) for full details.
 
 # KindureOS（カインデュア・オーエス）
 
