@@ -1,16 +1,99 @@
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+# KindureOS カスタムライセンス（吉岡有隆ライセンス）
 
-この作品は、著作権者である吉岡有隆によって著作されています。  
-非営利目的に限り、出典を明記すれば共有・改変が許可されます。要申告。  
-営利目的での使用・転載は禁止されています。
+**Copyright (c) 2025 吉岡有隆（Yutaka Yoshioka）**
 
-https://creativecommons.org/licenses/by-nc/4.0/deed.ja
+本ソフトウェア「KindureOS（カインデュア・オーエス）」およびその関連コード・構想・思想・UI/UX設計・アイコン・ロゴ・ネーミング・ドキュメント一切は、すべて**吉岡有隆（Yutaka Yoshioka）**により創作されたオリジナル著作物です。  
+これらは著作権法および国際的な知的財産権により保護されています。
 
-Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+本プロジェクトはGitHub上で無償公開される予定ですが、以下の条件を**すべて満たす場合に限り**、使用・複製・改変・再配布を許可します。
 
-This work is authored by Yutaka Yoshioka, the copyright holder.  
-You are permitted to share and adapt the material **for non-commercial purposes only**, **with proper attribution**. Notification is required.  
-Commercial use or redistribution is strictly prohibited.
+---
 
-https://creativecommons.org/licenses/by-nc/4.0/
+## 許可される行為（Permitted Uses）
 
+- 本ソフトウェアの**個人使用または教育・非営利研究目的での使用**  
+- コードの一部を**学習目的で引用**（※出典の明記が必須）  
+- GitHub上のリポジトリの**フォーク**（※著作権表示とライセンスの保持が条件）
+
+---
+
+## 禁止事項（Prohibited Actions）
+
+以下の行為は明確に**禁止**されます：
+
+- **「Created by Yutaka Yoshioka」などのクレジットを削除・隠蔽・改変する行為**
+- **オリジナル作者を偽る、あるいは著作権表示を改ざんする行為**
+- KindureOSの**名称、思想、設計概念、UI/UX、ロゴ、アイコン、言語設計などの模倣・商用転用**
+- 吉岡有隆の**明示的な事前許可なし**に、派生物を公開・販売・配布する行為
+- 本来の設計思想（倫理・共生・非軍事）に反する**政治的・軍事的・抑圧的な利用**
+
+---
+
+## 表記義務（Required Attribution）
+
+以下の著作権表示を、**コード、README、アプリクレジット、配布物のいずれかに**必ず記載してください：
+
+
+また、派生作品を制作する場合は以下の表記を明記する必要があります：
+
+> "This work is based on 'KindureOS' created by Yutaka Yoshioka."
+
+---
+
+## ライセンス制定日（Establishment Date）
+
+このライセンスは **2025年6月25日** に制定されました。  
+内容は今後、著作者の裁量により予告なく変更・追加される可能性があります。
+
+---
+
+# KindureOS Custom License (Yutaka Yoshioka License)
+
+**Copyright (c) 2025 Yutaka Yoshioka**
+
+"**KindureOS**" and all related code, philosophy, UI/UX design, iconography, naming, documentation, and underlying concepts are **original works** created by **Yutaka Yoshioka**.  
+These works are protected under domestic and international copyright laws.
+
+This software will be made available for free on GitHub, but **use, reproduction, modification, and redistribution are only permitted under the following conditions**:
+
+---
+
+## Permitted Uses
+
+- **Personal use or educational/non-commercial research use**  
+- **Quoting portions of the code** for study purposes (with **proper attribution**)  
+- **Forking the repository on GitHub**, provided the credit and license notice remain intact
+
+---
+
+## Prohibited Actions
+
+The following actions are **strictly forbidden**:
+
+- **Removing, altering, or hiding** the credit: “Created by Yutaka Yoshioka”  
+- **Falsely claiming authorship** or modifying attribution  
+- **Imitating or commercially using** the **name, philosophy, design, UI/UX, icon, or structure** of KindureOS  
+- **Publishing or selling any derivative works** without **explicit prior permission**  
+- **Using KindureOS in political, military, coercive, or oppressive contexts**, which violate its foundational values
+
+---
+
+## Required Attribution
+
+You must include the following notice in your codebase, README, app credits, or any distribution materials:
+
+
+If you create derivative works, you must also state clearly:
+
+> "This work is based on 'KindureOS' created by Yutaka Yoshioka."
+
+---
+
+## License Establishment
+
+This license was established on **June 25, 2025**.  
+Terms may be updated or revised at the discretion of the author without prior notice.
+
+---
+
+All rights reserved.
