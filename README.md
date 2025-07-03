@@ -1,3 +1,6 @@
+> This project is protected under the KindureOS Custom License (2025年6月25日制定).
+> All rights including name, concept, design, icon, and philosophy belong to the original creator: **Yutaka Yoshioka (吉岡有隆)**.
+
 # KindureOS（カインデュア・オーエス）
 
 「やさしさに、設計図を。」
