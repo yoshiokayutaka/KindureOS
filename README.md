@@ -31,6 +31,8 @@ KindureOSは、孤独を癒し、共感と思いやりをシステムに組み�
   - [@吉岡有隆](https://x.com/yoshiokayutaka_?s=11)（主に創作・思想系）  
   - [@yutakayoshioka](https://x.com/yutakaapp_?s=11)（開発・技術系）
 
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15847180.svg)](https://doi.org/10.5281/zenodo.15847180)
+
 ---
 
 # ご注意
